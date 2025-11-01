@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstrategiaAprendizaje_1/EstrategiaAprendizaje_1.iml" filepath="$PROJECT_DIR$/EstrategiaAprendizaje_1/EstrategiaAprendizaje_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practica1/Practica1.iml" filepath="$PROJECT_DIR$/Practica1/Practica1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practicas_SOFT10.iml" filepath="$PROJECT_DIR$/.idea/Practicas_SOFT10.iml" />
     </modules>
